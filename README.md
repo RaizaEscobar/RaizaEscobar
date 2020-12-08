@@ -1,5 +1,5 @@
 ### Hi, I am Raiza! :blush: :computer:
-
+<img src="https://github.com/RaizaEscobar/RaizaEscobar/blob/main/gitHubAvatar.png" alt="avatar header"/>
 <!--
 **RaizaEscobar/RaizaEscobar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
